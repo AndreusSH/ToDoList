@@ -1,4 +1,4 @@
-[Alt text]!(https://github.com/AndreusSH/ToDoList/blob/master/screenshots/Screenshot%202019-05-09%20at%2023.06.19.png)
+[Alt text]!(Screenshot%202019-05-09%20at%2023.06.19.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
