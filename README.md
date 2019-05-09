@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 Anytime you input a sentence, and press button "add", an element is added to the list
+If I click on an element of the list, the element itself disappears.
 
 ![alt text](https://github.com/AndreusSH/ToDoList/blob/master/screenshots/Screenshot%202019-05-09%20at%2023.06.19.png)
 ![alt text](https://github.com/AndreusSH/ToDoList/blob/master/screenshots/Screenshot%202019-05-09%20at%2023.07.59.png)
